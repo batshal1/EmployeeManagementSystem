@@ -1,0 +1,803 @@
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\FlatButton.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JDragControl.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JGradient Panel.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JImageButton.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JMaterialTextbox.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JMetroTextBox.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JTextBox.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JTextBox2.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\JThinButton.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\User\OneDrive - Office 365 Fontys\SEM2\Projecct\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.RemoveEmployee.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\ADA\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.RemoveEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Downloads\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\jay\Downloads\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\jay\Downloads\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\GroupProjectMercuryNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\Mercury_AniekNew\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jay\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\logout + visuals added\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\Aniek\Documents\Fontys\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\Uni\PRJ - MEDIA BAZAAR\C#\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\nepal\OneDrive\Desktop\GroupProjectMercury\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\MERCURY\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\ADA\Desktop\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Schedule.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ScheduleManagement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+C:\Users\Aniek\Documents\Fontys\Semester 2\Project\group7_mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.IndividualSchedule.resources
+C:\Users\ADA\Documents\GitHub\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.IndividualSchedule.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Memory.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Buffers.dll
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.xml
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.xml
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.IndividualSchedule.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ScheduleManagement.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewSchedule.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+C:\Users\jay\OneDrive - Office 365 Fontys\PRJ\Mercury\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.config
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe.manifest
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.application
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.exe
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\GroupProjectMercury.pdb
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Memory.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\K4os.Hash.xxHash.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Google.Protobuf.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Zstandard.Net.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\BouncyCastle.Crypto.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Ubiety.Dns.Core.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Renci.SshNet.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\System.Buffers.dll
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.xml
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Data.EntityFramework.xml
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\MySql.Web.xml
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csprojAssemblyReference.cache
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.config
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.AddAnnouncement.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AddEmployee.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.AnnouncementDetails.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Dashboard.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Depot.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditAnnouncement.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.EditProfile.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.IndividualSchedule.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManageShifts.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ManagingEmployee.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Profile.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Login.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.Statistics.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewAnnouncement.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Forms.ViewEmployee.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.Properties.Resources.resources
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.GenerateResource.cache
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CoreCompileInputs.cache
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe.manifest
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.application
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.csproj.CopyComplete
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.exe
+D:\OneDrive - Office 365 Fontys\Git\group7\group7_mercury\C# Application (versions)\IterativeFINAL\GroupProjectMercury\obj\Debug\GroupProjectMercury.pdb
