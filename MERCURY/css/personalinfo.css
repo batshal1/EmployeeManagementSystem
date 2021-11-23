@@ -1,0 +1,70 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  /*float: left;*/ float:  : center;
+  width: 33.33%;
+  padding: 10px;
+  text-align: center;
+
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+.row{
+	padding-top: 250px;
+
+}
+
+#personalinfo
+{
+	padding-left: 100px;
+  
+}
+
+#contact
+{
+	padding-left: 100px;
+  
+}
+
+#account
+{
+	padding-left: 100px;
+}
+
+input{
+	margin: auto;
+}
+
+.center{
+
+ /*padding: 10px;*/
+ background: #41ead4ff;
+ text-align: center;
+ /*border: 1px solid #41ead4ff;*/
+ color: #fff;
+}
+
+span.b {
+  display: inline-block;
+  width: 50%;
+  padding: 5px;
+  border: 1px solid blue;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+

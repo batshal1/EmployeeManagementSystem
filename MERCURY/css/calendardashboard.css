@@ -1,0 +1,11 @@
+.fc-event {
+	border: 1px solid #A84A4A  !important; 
+}
+
+.fc-event,
+.fc-event-dot {
+	background-color: #A84A4A  !important; 
+}
+
+/*red:#A84A4A,
+yellow:#ffc425*/
